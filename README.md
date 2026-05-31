@@ -4,7 +4,7 @@
 
 ## 🚀 Онлайн-версия
 
-Посетите живую версию проекта: [Task Manager PT4 - Онлайн](https://task-manager-pt4.vercel.app)
+Посетите живую версию проекта: [GitHub Pages](https://trikorka.github.io/task-manager-pt4/)
 
 ## 📋 Возможности
 
@@ -63,7 +63,3 @@ npm run preview
 - **React** - фреймворк для UI
 - **Vite** - инструмент сборки и dev сервер
 - **ESLint** - проверка качества кода
-
-## 📝 Лицензия
-
-Этот проект открыт и доступен под лицензией MIT.
